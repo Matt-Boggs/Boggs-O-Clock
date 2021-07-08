@@ -1,0 +1,10 @@
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\bin\Debug\BoggsOhClock.exe.config
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\bin\Debug\BoggsOhClock.exe
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\bin\Debug\BoggsOhClock.pdb
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\obj\Debug\BoggsOhClock.csprojAssemblyReference.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\obj\Debug\BoggsOhClock.Form1.resources
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\obj\Debug\BoggsOhClock.Properties.Resources.resources
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\obj\Debug\BoggsOhClock.csproj.GenerateResource.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\obj\Debug\BoggsOhClock.csproj.CoreCompileInputs.cache
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\obj\Debug\BoggsOhClock.exe
+C:\Users\mattb.SENTINELSYSTEMS\source\repos\BoggsOhClock\BoggsOhClock\obj\Debug\BoggsOhClock.pdb
