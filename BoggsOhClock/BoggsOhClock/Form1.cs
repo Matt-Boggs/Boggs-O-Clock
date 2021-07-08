@@ -42,7 +42,7 @@ namespace BoggsOhClock
 
             //Set up DrawLine parameters, Angle will be passed around for the three clock hands
             Length = ClockPanel.Height / 2;
-            //Angle will be in radians (2 Radians is one circle)
+            //Angle will be in radians (2Pi Radians is one circle)
             Angle = 0;
             MidX = ClockPanel.Width / 2;
             MidY = ClockPanel.Height / 2;
